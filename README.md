@@ -12,13 +12,13 @@ once you start the application , you will first have to identify as a client or 
 - the second calls a function named `rechercher1()` that displays the trips available on a specific date entered by the user . 
  
  ⛔The trips are stocked in a file named  `basededonnee`  that has all of the available trips in the format **(departure/destination/date)** . 
-- **Afficher le panier :** 
+- **Afficher le panier :**
 
-- afficher la drescription : 
+- **Afficher la drescription :**
   this calls a function named `panier()` that displays the trips that were booked with all of their details. 
  
  
- - Supprimer un voyage : 
+ - **Supprimer un voyage :** 
    this fisrt displays the booked trips by calling `panier()` then calls a function named  `supprimer()` that take the ID of a trip as a parameter and deletes it  .
   - modifier un voyage : 
    this fisrt displays the booked trips by calling `panier()` then calls a function named  `modif()` that take the ID of a trip as a parameter and allows the user to change certain informations about a trip . 
