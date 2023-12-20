@@ -1,5 +1,5 @@
 # E-Bus-Travel-Agency-
-once you start the application , you will first have to identify as a client or as an admin , for the record each one has its own functions and purpose 
+once you start the application , you will first have to identify as a client or as an admin , for the record each one has its own functions and purposes . 
 
 
 1 - Client  : 
@@ -8,8 +8,8 @@ once you start the application , you will first have to identify as a client or 
  - **chercher un voyage** :
  
  There are two ways to look for a trip :
-- the first calls a function named `rechercher()` that allows you to narrow your research by entering two dates , it then displays the flights in between those dates .
-- the second calls a function named `rechercher1()` that displays the flights available on a specific date entered by the user . 
+- the first calls a function named `rechercher()` that allows you to narrow your research by entering two dates , it then displays the trips in between those dates .
+- the second calls a function named `rechercher1()` that displays the trips available on a specific date entered by the user . 
  
  ⛔The trips are stocked in a file named  `basededonnee`  that has all of the available trips in the format **(departure/destination/date)** . 
 - **Afficher le panier :** 
